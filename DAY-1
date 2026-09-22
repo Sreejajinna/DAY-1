@@ -1,0 +1,66 @@
+'''
+
+how to save the python file?
+filename.py
+how to run the python file?
+python filename.py
+
+----- Variables -----
+---> Variable is a container which can stores the data/values
+---> The data maybe
+1. integer
+2. string
+3. float
+4. boolean
+
+type() is a method
+type()---> is used to find out datatype of the value
+
+'''
+a = 10
+b ="dhoni"
+# string will be representing by using""
+c =  3.5
+is_student = True
+
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
+print(is_student)
+print(type(is_student))
+ 
+ # limilataion of the variables
+ '''
+ 1. Variable cannot starts with number 
+  but it will include inside or at the end of the variable
+
+  clg2 = 25
+  print(clg2)
+
+  clg2university = 45
+  print(clg2university)
+
+  2. No space is allowed in between two words
+  doesnot use gap between the variables rather than use underscore
+
+  first name = "dhoni"
+  print(first name)
+
+  3. No special charecters are allowed for the variables
+
+  @apple = 78
+  print(@apple)
+
+  4. No python reserved keywords are allowed
+
+  if = 45 
+  print(if)
+
+  IF = 23
+  print(IF)
+  
+  The python reserved keywords are 
+  True, And, As, Class, Yield
