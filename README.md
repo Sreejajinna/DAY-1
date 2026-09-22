@@ -1,2 +1,2 @@
 # DAY-1
-The Python file about the limitation of variables and datatypes 
+The file about Python limitation of variables and datatypes 
